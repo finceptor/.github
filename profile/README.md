@@ -3,6 +3,7 @@
 <div align="center">
     <img src="https://github.com/open-universe-dao/.github/blob/main/images/icon.png" width="250" height="250" alt ="OpenPad logo" />
 </div>
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 
 OpenPad Universe DAO is a community-driven multi-verse foundational layer for decentralized economies & governance, aligned with the open-source culture of Web3, empowering the future of efficient markets and ownership via OpenPad NFT, OpenPad Launchpad, OpenPad DAO, OpenPad Pools, OpenPad Business, OpenPad AI, and OpenPad Metaverse.
 
