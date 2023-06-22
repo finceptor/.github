@@ -1,14 +1,14 @@
-# OpenPad
+# Finceptor
 
 <div align="center">
-    <img src="https://github.com/open-universe-dao/.github/blob/main/images/icon.png" width="125" height="125" alt ="OpenPad logo" />
+    <img src="https://github.com/open-universe-dao/.github/blob/main/images/logo_2.jpg" width="125" height="125" alt ="Finceptor logo" />
 </div>
 
 
-OpenPad is a community-run Web3 launchpad, decentralized venture capital & accelerator that unlocks highly-curated, insurance-backed & allocation-guaranteed token sales starting from $1.
+Finceptor is a Web3 financing platform that connects retail investors with vetted Web3 token offerings at multiple stages, including pre-launch liquidity vaults, public token offerings, and the world's first secondary token offerings, also known as Follow-on Token Offerings.
 
 ## Socials
 
-* [💻 Website](www.openpad.app)
-* [🧾 Whitepaper](https://docs.openpad.app/whitepaper/)
-* [🐟 Twitter](https://twitter.com/OpenPadCitizens)
+* [💻 Website](www.finceptor.app)
+* [🧾 Whitepaper](http://docs.finceptor.app/)
+* [🐟 Twitter](https://twitter.com/FinceptorApp)
