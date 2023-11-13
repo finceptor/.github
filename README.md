@@ -12,7 +12,7 @@ Finceptor is a multi-chain liquidity and community growth platform for pre-launc
 Product Suite
 - Liquidity Vault is on-chain initial liquidity bootstrapping pool to build protocol-owned liquidity
 - Bond is structured protocol-owned liquidity bootstrapping and token liquidation tool for publicly-traded tokens
-- Launchpad for a strategic token launch and sales
+- Launchpad for strategic token launch and sales
 
 ## Socials
 
